@@ -1,0 +1,131 @@
+{
+  "conversation_state" : [ {
+    "conversation_id" : {
+      "id" : "Ugw_g7q8OMSWozDjVLl4AaABAagBo_yADA"
+    },
+    "response_header" : {
+      "status" : "OK",
+      "debug_url" : "",
+      "request_trace_id" : "11736885609700267422",
+      "current_server_time" : "1492635483316000",
+      "build_label" : "chat_conserver_20170412.00_p0",
+      "changelist_number" : 152907126
+    },
+    "conversation_state" : {
+      "conversation_id" : {
+        "id" : "Ugw_g7q8OMSWozDjVLl4AaABAagBo_yADA"
+      },
+      "conversation" : {
+        "id" : {
+          "id" : "Ugw_g7q8OMSWozDjVLl4AaABAagBo_yADA"
+        },
+        "type" : "STICKY_ONE_TO_ONE",
+        "self_conversation_state" : {
+          "self_read_state" : {
+            "participant_id" : {
+              "gaia_id" : "116010359234753600902",
+              "chat_id" : "116010359234753600902"
+            },
+            "latest_read_timestamp" : "0"
+          },
+          "status" : "ACTIVE",
+          "notification_level" : "RING",
+          "view" : [ "INBOX_VIEW" ],
+          "inviter_id" : {
+            "gaia_id" : "101338931285394592667",
+            "chat_id" : "101338931285394592667"
+          },
+          "invite_timestamp" : "1489727130758000",
+          "sort_timestamp" : "1492627964341000",
+          "active_timestamp" : "1492627964341000",
+          "delivery_medium_option" : [ {
+            "delivery_medium" : {
+              "medium_type" : "BABEL_MEDIUM"
+            },
+            "current_default" : true
+          } ],
+          "is_guest" : false
+        },
+        "read_state" : [ {
+          "participant_id" : {
+            "gaia_id" : "116010359234753600902",
+            "chat_id" : "116010359234753600902"
+          },
+          "latest_read_timestamp" : "0"
+        }, {
+          "participant_id" : {
+            "gaia_id" : "101338931285394592667",
+            "chat_id" : "101338931285394592667"
+          },
+          "latest_read_timestamp" : "1489727147264591"
+        } ],
+        "has_active_hangout" : false,
+        "otr_status" : "ON_THE_RECORD",
+        "otr_toggle" : "ENABLED",
+        "current_participant" : [ {
+          "gaia_id" : "116010359234753600902",
+          "chat_id" : "116010359234753600902"
+        }, {
+          "gaia_id" : "101338931285394592667",
+          "chat_id" : "101338931285394592667"
+        } ],
+        "participant_data" : [ {
+          "id" : {
+            "gaia_id" : "116010359234753600902",
+            "chat_id" : "116010359234753600902"
+          },
+          "fallback_name" : "Cin Fontana",
+          "invitation_status" : "ACCEPTED_INVITATION",
+          "participant_type" : "GAIA",
+          "new_invitation_status" : "ACCEPTED_INVITATION"
+        }, {
+          "id" : {
+            "gaia_id" : "101338931285394592667",
+            "chat_id" : "101338931285394592667"
+          },
+          "fallback_name" : "Bruno Calcagno",
+          "invitation_status" : "ACCEPTED_INVITATION",
+          "participant_type" : "GAIA",
+          "new_invitation_status" : "ACCEPTED_INVITATION"
+        } ],
+        "fork_on_external_invite" : false,
+        "network_type" : [ "BABEL" ],
+        "force_history_state" : "NO_FORCE",
+        "group_link_sharing_status" : "LINK_SHARING_OFF"
+      },
+      "event" : [ {
+        "conversation_id" : {
+          "id" : "Ugw_g7q8OMSWozDjVLl4AaABAagBo_yADA"
+        },
+        "sender_id" : {
+          "gaia_id" : "101338931285394592667",
+          "chat_id" : "101338931285394592667"
+        },
+        "timestamp" : "1489727147264591",
+        "self_event_state" : {
+          "user_id" : {
+            "gaia_id" : "116010359234753600902",
+            "chat_id" : "116010359234753600902"
+          },
+          "notification_level" : "RING"
+        },
+        "chat_message" : {
+          "message_content" : {
+            "segment" : [ {
+              "type" : "TEXT",
+              "text" : "?"
+            } ]
+          }
+        },
+        "event_id" : "8QC16eRCP8a8QC18dziDqM",
+        "advances_sort_timestamp" : true,
+        "event_otr" : "ON_THE_RECORD",
+        "delivery_medium" : {
+          "medium_type" : "BABEL_MEDIUM"
+        },
+        "event_type" : "REGULAR_CHAT_MESSAGE",
+        "event_version" : "1489727147264591"
+      } ]
+    }
+  } ]
+}
